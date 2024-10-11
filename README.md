@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jai "Jazz" Chaubey</h1>
+<h1 align="center">Hi 👋, I'm Jai Chaubey "Jazz" </h1>
 <h3 align="center">A passionate full-stack developer and tech enthusiast from India</h3>
 
 <p align="center">
