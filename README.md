@@ -2,8 +2,10 @@
 <h3 align="center">A passionate full-stack developer and tech enthusiast </h3>
 
 <p align="center">
-  <img src="https://tenor.com/view/dante-dante-devil-may-cry-dante-dmc-gif-23343958" alt="Dante" height="200"/>
+  <img src="https://github.com/user-attachments/assets/1363b558-cb66-43fd-ac59-0ed9e8d6da35" alt="Dante" height="200"/>
 </p>
+
+
 
 - 🔭 I’m currently working on **[Yet-Another-Tweeter-Basic-Clone](https://github.com/itsjazzkun/Yet-Another-Tweeter-Basic-Clone)**
   - A social media application clone that incorporates real-time features and user authentication.
@@ -14,9 +16,9 @@
 - 📫 How to reach me: **vanced.exe@gmail.com**
 
 🌟 Fun Facts:
-- 🎮 I'm a gamer and love spending my weekends playing action games like the **Devil May Cry Series**.
+- 🎮 I'm a gamer and love spending my weekends playing action games like **[Devil May Cry Series]**.
   <p align="center">
-    <img src="https://giphy.com/gifs/Capcom-devil-may-cry-dmc5-dmcv-Y8K0XaIY7WR9VBRSHe" alt="Dante Gaming" height="250"/>
+    <img src="https://github.com/user-attachments/assets/60bb5d13-25cb-404d-9dd6-2cbf73777f6c" alt="Dante Gaming" height="250"/>
   </p>
 - 🌸 A huge anime lover! Some of my favorites include **Haikyuu** and **Bleach**.
 - 🇯🇵 I love Japan and plan to visit someday to explore its culture and food!
@@ -51,8 +53,6 @@
   <a href="https://www.linkedin.com/in/jai-chaubey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-@JaiChaubey-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://tenor.com/view/dante-dmc-devilmaycry-mocking-hakari-dance-gif-1619724240990728644" alt="Mocking Dante Dance" height="200"/>
+  <img src="https://github.com/user-attachments/assets/42bb415d-52d8-4392-b408-f86903e69e83" alt="Mocking Dante Dance" height="200"/>
 </p>
