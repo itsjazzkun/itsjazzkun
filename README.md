@@ -48,6 +48,9 @@
 - 🌸 A huge anime lover! Some of my favorites include **Haikyuu** and **Bleach**.
 - 🇯🇵 I love Japan and plan to visit someday to explore its culture and food!
 - 💪 Currently exercising to stay fit and healthy!
+  
+
+Feel free to check out my projects or connect with me on LinkedIn or Twitter if you'd like to collaborate
 
 <p align="center">
   <a href="https://x.com/itsjazzkun" target="_blank"><img src="https://img.shields.io/badge/Twitter-@itsjazzkun-blue?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
