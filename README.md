@@ -21,7 +21,7 @@
 - 💪 Currently exercising to stay fit and healthy!
 
 🛠️ **Technologies & Tools:**
-- Languages: JavaScript, Python, Java
+- Languages: JavaScript, Python
 - Frameworks: React, Django, Node.js
 - Tools: Git, Docker, Figma
 
