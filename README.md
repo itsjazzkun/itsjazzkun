@@ -17,7 +17,7 @@
 - Languages: JavaScript, Python
 - Frameworks: React, Django, Node.js
 - Tools: Git, Docker, Figma
-- Databases: PostgreSQL, SQLite
+- Databases: PostgreSQL, SQLite , MongoDB
 - Cloud: Railway, Heroku
 
 <h3 align="left">My Projects:</h3>
