@@ -46,5 +46,5 @@
 
 <p align="center">
   <a href="https://x.com/itsjazzkun" target="_blank"><img src="https://img.shields.io/badge/Twitter-@itsjazzkun-blue?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/jai-chaubey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-@Jai-Chaubey-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/jai-chaubey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-@JaiChaubey-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 </p>
