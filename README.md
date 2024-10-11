@@ -5,8 +5,6 @@
   <img src="https://github.com/user-attachments/assets/1363b558-cb66-43fd-ac59-0ed9e8d6da35" alt="Dante" height="200"/>
 </p>
 
-
-
 - 🔭 I’m currently working on **[Yet-Another-Tweeter-Basic-Clone](https://github.com/itsjazzkun/Yet-Another-Tweeter-Basic-Clone)**
   - A social media application clone that incorporates real-time features and user authentication.
 - 🌱 I’m currently learning **JavaScript, Django, React, and Node.js**
@@ -15,11 +13,12 @@
 - 💬 Ask me about **Django, Android Custom ROMs, and Full Stack Development**
 - 📫 How to reach me: **vanced.exe@gmail.com**
 
-
 🛠️ **Technologies & Tools:**
 - Languages: JavaScript, Python
 - Frameworks: React, Django, Node.js
 - Tools: Git, Docker, Figma
+- Databases: PostgreSQL, SQLite
+- Cloud: Railway, Heroku
 
 <h3 align="left">My Projects:</h3>
 - 💻 [Yet-Another-Tweeter-Basic-Clone](https://github.com/itsjazzkun/Yet-Another-Tweeter-Basic-Clone) - A Django-based Twitter clone with user authentication and real-time updates.
@@ -48,7 +47,6 @@
 - 🌸 A huge anime lover! Some of my favorites include **Haikyuu** and **Bleach**.
 - 🇯🇵 I love Japan and plan to visit someday to explore its culture and food!
 - 💪 Currently exercising to stay fit and healthy!
-  
 
 Feel free to check out my projects or connect with me on LinkedIn or Twitter if you'd like to collaborate
 
