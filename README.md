@@ -15,19 +15,14 @@
 - 💬 Ask me about **Django, Android Custom ROMs, and Full Stack Development**
 - 📫 How to reach me: **vanced.exe@gmail.com**
 
-🌟 Fun Facts:
-- 🎮 I'm a gamer and love spending my weekends playing action games like **[Devil May Cry Series]**.
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/11099982-ef43-40fd-a7de-e1e0b538d27b" height="200"/>
-  </p>
-- 🌸 A huge anime lover! Some of my favorites include **Haikyuu** and **Bleach**.
-- 🇯🇵 I love Japan and plan to visit someday to explore its culture and food!
-- 💪 Currently exercising to stay fit and healthy!
 
 🛠️ **Technologies & Tools:**
 - Languages: JavaScript, Python
 - Frameworks: React, Django, Node.js
 - Tools: Git, Docker, Figma
+
+<h3 align="left">My Projects:</h3>
+- 💻 [Yet-Another-Tweeter-Basic-Clone](https://github.com/itsjazzkun/Yet-Another-Tweeter-Basic-Clone) - A Django-based Twitter clone with user authentication and real-time updates.
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
@@ -45,8 +40,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjazzkun&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<h3 align="left">My Projects:</h3>
-- 💻 [Yet-Another-Tweeter-Basic-Clone](https://github.com/itsjazzkun/Yet-Another-Tweeter-Basic-Clone) - A Django-based Twitter clone with user authentication and real-time updates.
+🌟 Fun Facts:
+- 🎮 I'm a gamer and love spending my weekends playing action games like **[Devil May Cry Series]**.
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/11099982-ef43-40fd-a7de-e1e0b538d27b" height="200"/>
+  </p>
+- 🌸 A huge anime lover! Some of my favorites include **Haikyuu** and **Bleach**.
+- 🇯🇵 I love Japan and plan to visit someday to explore its culture and food!
+- 💪 Currently exercising to stay fit and healthy!
 
 <p align="center">
   <a href="https://x.com/itsjazzkun" target="_blank"><img src="https://img.shields.io/badge/Twitter-@itsjazzkun-blue?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
