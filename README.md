@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer and tech enthusiast </h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/edf53345-3725-41eb-aabf-c027bd1998cd" alt="Dante" height="250"/>
+  <img src="https://github.com/user-attachments/assets/edf53345-3725-41eb-aabf-c027bd1998cd" alt="Dante" height="200"/>
 </p>
 
 
