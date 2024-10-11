@@ -18,7 +18,8 @@
 🌟 Fun Facts:
 - 🎮 I'm a gamer and love spending my weekends playing action games like **[Devil May Cry Series]**.
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/60bb5d13-25cb-404d-9dd6-2cbf73777f6c" alt="Dante Gaming" height="250"/>
+    <img src="https://github.com/user-attachments/assets/11099982-ef43-40fd-a7de-e1e0b538d27b
+" height="250"/>
   </p>
 - 🌸 A huge anime lover! Some of my favorites include **Haikyuu** and **Bleach**.
 - 🇯🇵 I love Japan and plan to visit someday to explore its culture and food!
