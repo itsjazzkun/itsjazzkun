@@ -2,8 +2,9 @@
 <h3 align="center">A passionate full-stack developer and tech enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/27f613a4-2045-4ed5-8f3e-2d3f0797f584" alt="Dante" height="200"/>
+  <img src="https://github.com/user-attachments/assets/edf53345-3725-41eb-aabf-c027bd1998cd" alt="Dante" height="300"/>
 </p>
+
 
 - 🔭 I’m currently working on **[Yet-Another-Tweeter-Basic-Clone](https://github.com/itsjazzkun/Yet-Another-Tweeter-Basic-Clone)**
   - A social media application clone that incorporates real-time features and user authentication.
@@ -44,6 +45,6 @@
 - 💻 [Yet-Another-Tweeter-Basic-Clone](https://github.com/itsjazzkun/Yet-Another-Tweeter-Basic-Clone) - A Django-based Twitter clone with user authentication and real-time updates.
 
 <p align="center">
-  <a href="https://x.com/itsjazzkun" target="_blank"><img src="https://img.shields.io/badge/Twitter-@yourhandle-blue?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/jai-chaubey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-@yourhandle-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://x.com/itsjazzkun" target="_blank"><img src="https://img.shields.io/badge/Twitter-@itsjazzkun-blue?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/jai-chaubey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-@Jai-Chaubey-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 </p>
