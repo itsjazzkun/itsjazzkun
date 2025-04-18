@@ -6,7 +6,6 @@
 </p>
 
 - 🔭 I’m currently working on
-  - **[Yet-Another-Tweeter-Basic-Clone](https://github.com/itsjazzkun/Yet-Another-Tweeter-Basic-Clone)** - A social media application clone that incorporates real-time features and user authentication.
   - **⚔️ [Hyperion](https://github.com/itsjazzkun/artimes-hyperion)** - A Django-powered Pomodoro timer and productivity sidebar with stylish flair.
 
 - 🌱 I’m currently learning **JavaScript, Django, React, and Node.js**
