@@ -2,10 +2,10 @@
 <h3 align="center">Full-Stack Developer (JavaScript, Node.js, React)</h3>
 
 <p align="center">
-  Building practical web apps. Shipping code daily.
+  🚀 Building practical web apps. Shipping code daily.
 </p>
 
-### Projects
+### 🧩 Projects
 - **Hyperion** – Pomodoro + productivity sidebar  
   Stack: Django (legacy)  
   Repo: https://github.com/itsjazzkun/artimes-hyperion
@@ -14,9 +14,9 @@
   Stack: Django  
   Repo: https://github.com/itsjazzkun/Yet-Another-Tweeter-Basic-Clone
 
-> New projects in JS stack in progress. Live demos coming.
+> 🛠️ New projects in JS full-stack in progress. Live demos coming.
 
-### Tech Stack
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -26,13 +26,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### GitHub Stats
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsjazzkun&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsjazzkun&theme=radical" />
 </p>
 
-### Contact
+### 📫 Contact
 - Email: vanced.exe@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/jai-chaubey/  
 - X: https://x.com/itsjazzkun
