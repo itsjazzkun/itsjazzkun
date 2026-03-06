@@ -42,8 +42,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsjazzkun&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjazzkun&layout=compact&theme=radical&hide_border=true" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsjazzkun&theme=radical" />
+   <img src=https://github.com/itsjazzkun/itsjazzkun/blob/output/github-contribution-grid-snake.svg />
 </p>
 ---
 
