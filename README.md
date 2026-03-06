@@ -42,10 +42,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsjazzkun&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=itsjazzkun&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjazzkun&layout=compact&theme=radical&hide_border=true" />
 </p>
-
 ---
 
 ### 📫 Contact
