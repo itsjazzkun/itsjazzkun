@@ -8,10 +8,12 @@
 
 - **Hyperion** – Pomodoro + productivity sidebar  
   Stack: Django (legacy), JS
+  
   Repo: https://github.com/itsjazzkun/artimes-hyperion
 
 - **Yet Another Tweeter Clone** – Twitter-like app with auth  
   Stack: Django (legacy), JS 
+  
   Repo: https://github.com/itsjazzkun/Yet-Another-Tweeter-Basic-Clone
 
 ---
