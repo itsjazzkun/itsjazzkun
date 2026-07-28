@@ -2,13 +2,11 @@
 <h3 align="center">Full-Stack Developer · JavaScript · Node.js · React</h3>
 <p align="center">🚀 Building practical web apps. Open to SDE internship opportunities.</p>
 
----
 
 ### 🧩 Projects
 
 > **Nexum** - A scalable RESTful backend for project management featuring JWT auth, RBAC, MongoDB aggregation pipelines, and            centralized error handling.
     Repo: https://github.com/itsjazzkun/Nexum
----
 
 ### 🛠️ Tech Stack
 
