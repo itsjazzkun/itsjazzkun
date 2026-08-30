@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=root%40jazz%3A~%24+shipping_backends+--prod;status%3A+reverse_engineering_agentic_systems;channel_open%3A+SDE_%26_Backend_internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=root%40jazz%3A~%24+shipping_backends+--prod;status%3A+learning_LLM_tool-use;channel_open%3A+SDE_%26_Backend_internships" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,8 +19,8 @@
 
 Final-year B.Tech CSE. I build backends engineered to survive contact with real traffic — not tutorial CRUD, systems that hold state correctly under load and don't quietly rot at 3 AM.
 
-- 🔭 `root_process:` building an AI shopping agent — LLM function-calling at the core
-- 🌱 `background_threads:` LLM tool-use, event-driven architecture, serverless pipelines
+- 🔭 `root_process:` learning LLM function-calling and tool-use — figuring out what's worth building with it
+- 🌱 `background_threads:` event-driven architecture, serverless pipelines
 - 💡 `core_belief:` the best code is the code you never have to debug at 3 AM
 - 📫 `open_channel:` **vanced.exe@gmail.com**
 
@@ -105,7 +105,7 @@ Final-year B.Tech CSE. I build backends engineered to survive contact with real 
 ## `> highlights`
 
 - Hands-on with **AWS Lambda, S3, Textract, Comprehend, DynamoDB**
-- Building AI agents on **LLM function calling** and **tool-use patterns**
+- Learning to build with **LLM function calling** and **tool-use patterns**
 
 ---
 
