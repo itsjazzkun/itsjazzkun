@@ -7,27 +7,26 @@
   <a href="mailto:vanced.exe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jai-chaubey/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/itsjazzkun"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://ais-dev-qmfjxhfzuvqiqrnlf5ljov-144059826265.asia-southeast1.run.app/resume.pdf"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+production-grade+backend+systems;Exploring+AI+agents+%26+agentic+commerce;Open+to+SDE+%26+Backend+internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=root%40jazz%3A~%24+shipping_backends+--prod;status%3A+reverse_engineering_agentic_systems;channel_open%3A+SDE_%26_Backend_internships" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👋 About Me
+## `> whoami`
 
-I'm **Jai Chaubey**, a final-year B.Tech CSE student who builds backends that don't break. I care about clean architecture, observable systems, and writing code that another human can actually read six months later.
+Final-year B.Tech CSE. I build backends engineered to survive contact with real traffic — not tutorial CRUD, systems that hold state correctly under load and don't quietly rot at 3 AM.
 
-- 🔭 Currently building an AI shopping agent with LLM function calling
-- 🌱 Deep-diving into **LLM function calling**, **event-driven architectures**, and **serverless pipelines**
-- 💡 I believe the best code is the code you never have to debug at 3 AM
-- 📫 Reach me: **vanced.exe@gmail.com**
+- 🔭 `root_process:` building an AI shopping agent — LLM function-calling at the core
+- 🌱 `background_threads:` LLM tool-use, event-driven architecture, serverless pipelines
+- 💡 `core_belief:` the best code is the code you never have to debug at 3 AM
+- 📫 `open_channel:` **vanced.exe@gmail.com**
 
 ---
 
-## 🛠 Tech Stack
+## `> tech_stack`
 
 ### Languages
 <p>
@@ -64,10 +63,10 @@ I'm **Jai Chaubey**, a final-year B.Tech CSE student who builds backends that do
 
 ---
 
-## 🚀 Featured Projects
+## `> featured_projects`
 
 ### [Nexum](https://github.com/itsjazzkun/Nexum)
-> A scalable RESTful backend for project management with enterprise-grade auth and access control.
+> Backend infrastructure for systems that don't get a second chance at data integrity.
 
 `Node.js` `Express` `MongoDB` `JWT` `RBAC` `Mongoose`
 
@@ -80,13 +79,13 @@ I'm **Jai Chaubey**, a final-year B.Tech CSE student who builds backends that do
 ---
 
 ### [JS Core Practice](https://github.com/itsjazzkun/js-core-practice)
-> Deep-dive into JavaScript internals — closures, prototypes, async patterns, and the event loop.
+> Reverse-engineering JavaScript's own internals — closures, prototypes, async patterns, the event loop.
 
 `JavaScript`
 
 ---
 
-## 📈 GitHub Stats
+## `> github_stats`
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsjazzkun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -103,14 +102,14 @@ I'm **Jai Chaubey**, a final-year B.Tech CSE student who builds backends that do
 
 ---
 
-## 🏆 Highlights
+## `> highlights`
 
-- Hands-on experience with **AWS Lambda, S3, Textract, Comprehend, DynamoDB**
-- Building AI agents with **LLM function calling** and **tool-use patterns**
+- Hands-on with **AWS Lambda, S3, Textract, Comprehend, DynamoDB**
+- Building AI agents on **LLM function calling** and **tool-use patterns**
 
 ---
 
-## 📫 Let's Connect
+## `> connect`
 
 <p>
   <a href="mailto:vanced.exe@gmail.com">
