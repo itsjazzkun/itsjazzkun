@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jai%20Chaubey%20(Jazz)&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Backend-First%20%C2%B7%20AI%20Agent%20Builder&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jai%20Chaubey%20(Jazz)&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Backend-First&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
@@ -125,3 +125,7 @@ I'm **Jai Chaubey**, a final-year B.Tech CSE student who builds backends that do
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1363b558-cb66-43fd-ac59-0ed9e8d6da35" alt="Dante" height="180"/>
+</p>
