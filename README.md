@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jai%20Chaubey%20(Jazz)&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Backend-First&descAlignY=55&descSize=18" />
+  <img width="852" height="402" alt="Recording 2026-09-02 070525" src="https://github.com/user-attachments/assets/ab7431dd-09fa-4627-aad2-59a02bdc41df"/>
 </p>
 
 <p align="center">
